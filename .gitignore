@@ -4,3 +4,5 @@
 /package-lock.json
 /nc/
 .env
+.nitro
+.output
