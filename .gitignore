@@ -6,3 +6,6 @@
 .env
 .nitro
 .output
+
+# Local Netlify folder
+.netlify
